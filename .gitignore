@@ -2,3 +2,4 @@
 *.pem
 *.csr
 *.crt
+req.conf
